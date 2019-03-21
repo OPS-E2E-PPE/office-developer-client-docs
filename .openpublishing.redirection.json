@@ -422,12 +422,12 @@
     },
     {
       "source_path": "docs/outlook/auxiliary/index.md",
-      "redirect_url": "reference-outlook-auxiliary-reference",
+      "redirect_url": "/office/client-developer/outlook/auxiliary/reference-outlook-auxiliary-reference",
       "redirect_document_id": true
     },
     {
       "source_path": "docs/outlook/social-connector/index.md",
-      "redirect_url": "outlook-social-connector-provider-reference-0",
+      "redirect_url": "/office/client-developer/outlook/social-connector/outlook-social-connector-provider-reference-0",
       "redirect_document_id": true
     },
     {
@@ -437,7 +437,7 @@
     },
     {
       "source_path": "docs/outlook/pia/index.md",
-      "redirect_url": "welcome-to-the-outlook-primary-interop-assembly-reference",
+      "redirect_url": "/office/client-developer/outlook/pia/welcome-to-the-outlook-primary-interop-assembly-reference",
       "redirect_document_id": false
     }
   ]
