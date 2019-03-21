@@ -432,7 +432,7 @@
     },
     {
       "source_path": "docs/outlook/weather/index.md",
-      "redirect_url": "outlook-weather-information-xml-schema",
+      "redirect_url": "/office/client-developer/outlook/weather/outlook-weather-information-xml-schema",
       "redirect_document_id": true
     },
     {
